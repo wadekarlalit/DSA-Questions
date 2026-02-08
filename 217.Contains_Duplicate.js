@@ -1,3 +1,7 @@
+//----------------------------------//
+//--- 👉 217. Contains Duplicate → Easy ---//
+//----------------------------------//
+
 var containsDuplicate = function(nums) {
     // - first i am using a brute force approach
     // - i take 1st element and check next element line by line.
