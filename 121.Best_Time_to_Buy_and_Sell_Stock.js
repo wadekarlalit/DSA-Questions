@@ -1,6 +1,7 @@
 
-// Q. 121. Best Time to Buy and Sell Stock
-// ---------------------------------------//
+//------------------------------------------------//
+//--- 👉 121. Best Time to Buy and Sell Stock → Easy  ---//
+// ----------------------------------------------//
 
 var maxProfit = function(prices) {
 // I track the minimum price seen so far while iterating through the array. 
