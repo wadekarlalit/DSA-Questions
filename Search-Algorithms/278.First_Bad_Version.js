@@ -4,6 +4,9 @@
 //--- 👉 278. First Bad Version → Easy ---//
 //----------------------------------------//
 
+// 👉 Patterns-8 → Binary Search on Answer (Parametric Search)
+// 📌 When to use: When answer lies in a range, not in array directly (e.g. minimize max pages, aggressive cows).
+
 //--------------------------------------------------------
 var solution = function (isBadVersion) {
     /**
